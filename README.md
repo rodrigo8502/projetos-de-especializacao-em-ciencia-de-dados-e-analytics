@@ -1,4 +1,4 @@
-Este repositório contém trabalhos em python para a disciplina de Ciência de Dados e Analytics.As tecnologias utilizadas foram Python, Pandas e NumPy para manipulação de dados, SQL e scikit-learn.
+Este repositório contém trabalhos em python para a disciplina de Ciência de Dados e Analytics. As tecnologias utilizadas foram Python, Pandas e NumPy para manipulação de dados, SQL e scikit-learn.
 
 
 
